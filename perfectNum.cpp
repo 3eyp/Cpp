@@ -57,7 +57,7 @@ class Muk:public Start{
                                         tot+=j;
                         }
                         if(tot==i)
-                                cout << "number" << i << "is perfect" << endl;
+                                cout << "Number " << i << " is perfect" << endl;
                         tot=0;
                 }
         }
