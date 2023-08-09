@@ -1,2 +1,1 @@
-# Cpp
- perfect number algorithm in c++
+#I've created an excellent number detection algorithm with object oriented classes in C++. The number you enter here is considered a range, and all numbers from the entered number to 1 are checked to see if they are perfect and printed on the screen.
