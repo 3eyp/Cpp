@@ -1,4 +1,4 @@
-#Linux Centos7 C++
+#Linux Centos7 (C++)
 #Author: Eyüp ESER
 #Date: 2023/09/8  4:50 PM
 #Purpose: Perfect number algorithm in C++
